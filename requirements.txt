@@ -1,3 +1,4 @@
 Flask==2.2.2
+Werkzeug==2.0.3  # Version that still has url_quote
 Flask-Cors==3.0.10
 requests==2.28.1
